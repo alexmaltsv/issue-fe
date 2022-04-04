@@ -1,0 +1,1 @@
+export const COMPANIES_DEBOUNCE_TIME = 300;
